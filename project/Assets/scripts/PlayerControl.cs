@@ -3,6 +3,8 @@ using System.Collections;
 
 public class PlayerControl : MonoBehaviour {
 
+    public float MovementSpeed;
+
 	// Use this for initialization
 	void Start () {
 	
